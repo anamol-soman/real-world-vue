@@ -1,12 +1,12 @@
 {
-"events": [
-  {
-    "name": "Molecule",
-    "age": 29,
-  },
-  {
-    "name": "Man",
-    "age": 23,
-  },
+  "events": [
+    {
+      "name": "Molecule",
+      "age": 29,
+    },
+    {
+      "name": "Man",
+      "age": 23,
+    },
  ]
 }
